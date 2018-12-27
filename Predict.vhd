@@ -11,7 +11,7 @@
 --  To use predict3med -> T_Predict=3;
 --  To use predict3plane -> T_Predict=4;
 --
---  Author(s): 	Martín Vázquez, martin.o.vazquez@gmail.com
+--  Author(s): 	MartÃ­n VÃ¡zquez, martin.o.vazquez@gmail.com
 --	Date: 12/12/2018	
 --	
 --	  
@@ -39,13 +39,6 @@
 --  along with the ImageZero Encoder.  If not, see http://www.gnu.org/licenses
 --
 ------------------------------------------------------------------------------
--- Realizado por LabSET
--- 12/12/18
-
-
-
-
-
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
